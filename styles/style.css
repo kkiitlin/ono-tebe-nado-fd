@@ -100,7 +100,6 @@
     font-weight: 700;
     font-size: 100px;
     min-width: 1000px;
-    min-height: 385px; 
     margin: 165px 50px 107px 50px;
 }
 
@@ -118,7 +117,7 @@
     width: 339px;
     height: 115px;
     padding-left: 330px;
-    padding-top: 22px;
+    padding-top: 20px;
 }
 
 .aligned-text_right {
@@ -172,7 +171,6 @@
 .lots__heading {
     margin-left: 64px;
     width: 121px;
-    min-height: 47px;
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -261,7 +259,6 @@
     margin-top: 32px;
     margin-left: 64px;
     width: 192px;
-    min-height: 23px;
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -324,12 +321,10 @@
 
 .about__text-strange-things {    
     max-width: 688px;
-    min-height: 120px;
 }
 
 .about__text-cult-lots {
     max-width: 693px;
-    min-height: 168px;
 }
 
 .footer__grid-container {
@@ -366,7 +361,7 @@
     display: flex;
     flex-direction: column;  
     width: 163.9px;  
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
